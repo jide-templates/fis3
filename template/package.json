@@ -1,0 +1,16 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fis-parser-babel-5.x": "^1.4.0",
+    "fis3-parser-pug": "0.0.2",
+    "fis3-parser-stylus": "^0.1.1"
+  }
+}

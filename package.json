@@ -1,0 +1,16 @@
+{
+  "name": "jide-cli-template-fis3",
+  "version": "1.0.0",
+  "description": "a fis3 template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jide-templates/fis3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jide-templates/fis3/issues"
+  },
+  "homepage": "https://github.com/jide-templates/fis3#readme"
+}
+ 
